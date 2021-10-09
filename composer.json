@@ -1,0 +1,16 @@
+{
+  "name": "sectsect/wp-instagram-json",
+  "description": "Generate JSON file with object data returned from Instagram API for Sandbox Mode.",
+  "keywords": ["github", "wordpress", "plugin", "Instagram", "json"],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.5"
+  },
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "SECT WEB INTERACTIVE",
+      "homepage": "https://www.ilovesect.com/"
+    }
+  ]
+}
